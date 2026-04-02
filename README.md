@@ -71,7 +71,7 @@ The simulation uses a 100% scoring system divided into two categories:
   - Transferring to cuvette
   - Analyzing sample using spectrophotometer
 
-Users can lose points by triggering incidents such as fires, spills, or breaking glassware. Points lost due to incidents can be recovered by correctly resolving the incident and completing an incident report.
+Users can lose points by triggering incidents such as fires, spills, or breaking glassware. Points lost due to incidents can be recovered by correctly resolving the incident and completing an incident report. Points lost due to improper handling of glassware **cannot** be recovered.
 
 At any point in the simulation, users can consult a **binder** for guidance on proper safety protocols.
 
