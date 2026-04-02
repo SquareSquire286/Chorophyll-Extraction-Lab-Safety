@@ -4,6 +4,8 @@ A VR-based safety simulator for chlorophyll extraction, an undergraduate biology
 
 ![Lab Safety Teaser](Images/ChlorophyllExtraction.png)
 
+[Download Link](https://squaresquire286.itch.io/chlorophyll-extraction)
+
 ---
 
 ## Overview
