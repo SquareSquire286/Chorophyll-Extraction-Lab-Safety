@@ -23,9 +23,13 @@ This project was developed under contract for the Faculty of Science at the Univ
 ## Team & Contributions
 
 **Jacob Sauer**: Backend development
+
 **Wil J. Norton**: Frontend development, modelling
+
 **Vincent Ignatiuk**: Conception, external supervision
+
 **Geremy Lague**: Playtesting, coordination
+
 **David Gerhard**: Playtesting, coordination, internal supervision
 
 ---
